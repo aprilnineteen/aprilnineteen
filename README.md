@@ -4,6 +4,7 @@
 ## Hi there 👋
 # Hi there 👋
 <br>
+> 신기하다
 <hr>
 <!--
 **aprilnineteen/aprilnineteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
